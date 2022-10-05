@@ -23,6 +23,6 @@ quasiconvexity of functions is of non-local type, especially for vector-valued
 functions. Nevertheless, in view of these difficulties we develop some numerical
 schemes to verify if a given function has rank one convexity property but is not
 quasiconvex. Our numerical results seem to confirm Morrey’s Conjecture.
-## Key 
+## Key Words
 Morrey’s Conjecture; Quasiconvexity; Numerical approximation;
 Non-convex Optimization
